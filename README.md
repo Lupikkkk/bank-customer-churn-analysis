@@ -3,6 +3,10 @@ Machine learning project analyzing bank customer churn and identifying customers
 
 ## Project Overview
 
+![Project Overview](images/overview.png)
+
+![ML Pipeline](images/pipeline.png)
+
 This project analyzes a dataset of 28,382 bank customers to predict churn and support customer retention strategies.
 
 Models used:
